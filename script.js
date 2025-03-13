@@ -1,6 +1,6 @@
 
-const APILINK = 'http://www.omdbapi.com/?apikey=32914675&s=avengers';
-const SEARCHAPI = 'http://www.omdbapi.com/?apikey=32914675&s=';
+const APILINK = 'https://www.omdbapi.com/?apikey=32914675&s=avengers';
+const SEARCHAPI = 'https://www.omdbapi.com/?apikey=32914675&s=';
 
 const main = document.getElementById('section');
 const form = document.getElementById('form');
